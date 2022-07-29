@@ -1,0 +1,104 @@
+[
+  {
+    "titulo": "Memorias de un exnazi",
+    "autor": "David Saavedra",
+    "paginas": 368,
+    "palabras": 88295,
+    "tiempo": 9,
+    "fecha": "28/7/22",
+    "leido": "true"
+  },
+  {
+    "titulo": "El juego del ángel",
+    "autor": "Carlos Ruiz Zafón",
+    "paginas": 672,
+    "palabras": 158167,
+    "tiempo": 16,
+    "fecha": "30/1/22",
+    "leido": "true"
+  },
+  {
+    "titulo": "Territorio comanche",
+    "autor": "Arturo Perez Reverte",
+    "paginas": 144,
+    "palabras": 26855,
+    "leido": "false"
+  },
+  {
+    "titulo": "Burlar al diablo",
+    "autor": "Napoleon Hill",
+    "paginas": 272,
+    "palabras": 61048,
+    "leido": "false"
+  },
+  {
+    "titulo": "El italiano",
+    "autor": "Arturo Perez Reverte",
+    "paginas": 400,
+    "palabras": 95183,
+    "leido": "false"
+  },
+  {
+    "titulo": "Falcó",
+    "autor": "Arturo Perez Reverte",
+    "paginas": 296,
+    "palabras": 73350,
+    "leido": "false"
+  },
+  {
+    "titulo": "La mente de los justos",
+    "autor": "Jonathan Haidt",
+    "paginas": 496,
+    "palabras": 153066,
+    "leido": "false"
+  },
+  {
+    "titulo": "La transformación de la mente moderna",
+    "autor": "Jonathan Haidt",
+    "paginas": 440,
+    "palabras": 131937,
+    "leido": "false"
+  },
+  {
+    "titulo": "Pensar rápido, pensar despacio",
+    "autor": "Daniel Kahneman",
+    "paginas": 672,
+    "palabras": 201693,
+    "leido": "false"
+  },
+  {
+    "titulo": "La tabla de flandes",
+    "autor": "Arturo Perez Reverte",
+    "paginas": 416,
+    "palabras": 108060,
+    "leido": "false"
+  },
+  {
+    "titulo": "Terapia cognitiva de la depresión",
+    "autor": "Aaron T. Beck",
+    "paginas": 396,
+    "palabras": 165954,
+    "leido": "false"
+  },
+  {
+    "titulo": "La odisea",
+    "autor": "Homero",
+    "paginas": 472,
+    "palabras": 117776,
+    "leido": "false"
+  },
+  {
+    "titulo": "La iliada",
+    "autor": "Homero",
+    "paginas": 650,
+    "palabras": 151401,
+    "leido": "false"
+  },
+  {
+    "titulo": "Hábitos Atómicos",
+    "autor": "James Clear",
+    "paginas": 336,
+    "palabras": 85033,
+    "leido": "false"
+  }
+]
