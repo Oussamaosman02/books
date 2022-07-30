@@ -122,7 +122,9 @@
     "autor": "Javier Castillo",
     "paginas": 300,
     "palabras": 81376,
-    "leido": "false"
+    "tiempo": 7,
+    "fecha": "30/7/22",
+    "leido": "true"
   },
   {
     "titulo": "El prisionero del cielo",
