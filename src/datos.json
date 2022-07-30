@@ -100,5 +100,37 @@
     "paginas": 336,
     "palabras": 85033,
     "leido": "false"
+  },
+  {
+    "titulo": "El Día Que Se Perdió El Amor",
+    "autor": "Javier Castillo",
+    "paginas": 432,
+    "palabras": 84104,
+    "leido": "false"
+  },
+  {
+    "titulo": "Un cuento perfecto",
+    "autor": "Elísabet Benavent",
+    "paginas": 580,
+    "palabras": 162379,
+    "tiempo":20,
+    "fecha": "27/3/22",
+    "leido": "true"
+  },
+  {
+    "titulo": "El día que se perdió la cordura",
+    "autor": "Javier Castillo",
+    "paginas": 300,
+    "palabras": 81376,
+    "leido": "false"
+  },
+  {
+    "titulo": "El prisionero del cielo",
+    "autor": "Carlos Ruiz Zafón",
+    "paginas": 339,
+    "palabras": 68105,
+    "tiempo":7,
+    "fecha": "12/2/22",
+    "leido": "true"
   }
 ]
