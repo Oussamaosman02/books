@@ -108,7 +108,9 @@
     "autor": "Javier Castillo",
     "paginas": 432,
     "palabras": 84104,
-    "leido": "false"
+    "tiempo": 7,
+    "fecha": "31/7/22",
+    "leido": "true"
   },
   {
     "titulo": "Un cuento perfecto",
@@ -136,5 +138,12 @@
     "tiempo":7,
     "fecha": "12/2/22",
     "leido": "true"
+  },
+  {
+    "titulo": "El hombre en busca de sentido",
+    "autor": "Viktor Frankl",
+    "paginas": 168,
+    "palabras": 46393,
+    "leido": "false"
   }
 ]
