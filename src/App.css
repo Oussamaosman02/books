@@ -2,51 +2,26 @@
   text-align: center;
 }
 
-span {
-  width: 40vw;
-}
-
-li {
+.imag {
+  position: absolute;
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  padding: 1vh 3vw;
-  height: 12vh;
-}
-
-.true {
-  background-color: rgba(0, 255, 0, 0.3);
-  border: 1px rgb(100, 100, 100) solid;
+  justify-content: space-between;
+  align-items: center;
+  width: 50vw;
+  left: 24vw;
 }
 
 h1 {
   margin: 1vh;
 }
 
-h2,
-h3,
-h4,
-h5,
-h6 {
-  text-align: left;
-  margin-left: 1vw;
+img {
+  width: 40px;
 }
 
-h2 {
-  width: 100%;
-}
-h6 {
-  background-color: rgba(0, 255, 0, 1);
-  width: 7%;
-  text-align: center;
-  position: relative;
-  top: -3px;
-}
-
-.fecha {
-  background-color: chocolate;
-  width: 11%;
-  text-align: left;
-  position: relative;
-  top: 0;
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
 }
