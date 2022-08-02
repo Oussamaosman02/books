@@ -10,14 +10,16 @@ li {
     margin-top: 3vh;
     background-color: rgba(250,250,250 ,.25 );
     /* From https://css.glass */
-  box-shadow: 0 0px 40px -5px rgba(255,255,255, 0.20);
-  backdrop-filter: blur(4px);
+  box-shadow: 0 0px 40px rgb(0,0,0);
+  backdrop-filter: blur(4.5px);
   -webkit-backdrop-filter: blur(4px);
   border: 1px solid rgba(128, 128, 128, 0.47);
+  transition: all .6s;
   }
 
   li:hover{
-  backdrop-filter: blur(2px);
+  box-shadow: 0 0px 40px -5px rgba(0,0,0,0);
+  backdrop-filter: blur(.75px);
   }
   span {
     width: 100%;
