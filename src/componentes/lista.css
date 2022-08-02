@@ -7,9 +7,18 @@ li {
     border-radius: 25px;
     position: relative;
     margin: 1vw;
-    background-color: rgba(100,100,100 ,.25 );
+    margin-top: 3vh;
+    background-color: rgba(250,250,250 ,.25 );
+    /* From https://css.glass */
+  box-shadow: 0 0px 40px -5px rgba(255,255,255, 0.20);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border: 1px solid rgba(128, 128, 128, 0.47);
   }
-  
+
+  li:hover{
+  backdrop-filter: blur(2px);
+  }
   span {
     width: 100%;
     margin: 5px 0;
@@ -19,7 +28,7 @@ li {
     width: 50%;
   }
   .true {
-    background-color: rgba(0, 255, 255, 0.4);
+    background-color: rgba(0, 255, 255, 0.20);
   }
 
   h2,
