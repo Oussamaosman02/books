@@ -162,7 +162,9 @@
     "autor": "Viktor Frankl",
     "paginas": 168,
     "palabras": 46393,
-    "leido": "false",
+    "tiempo": 4.5,
+    "fecha":"3/8/22",
+    "leido": "true",
     "imagen":"https://images-na.ssl-images-amazon.com/images/I/81MAQ+fkjrL.jpg"
   },
   {
