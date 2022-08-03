@@ -7,7 +7,7 @@
     "tiempo": 9,
     "fecha": "28/7/22",
     "leido": "true",
-    "imagen":"https://images-na.ssl-images-amazon.com/images/I/81jiM8E9RVL.jpg"
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/81jiM8E9RVL.jpg"
   },
   {
     "titulo": "El juego del ángel",
@@ -17,7 +17,7 @@
     "tiempo": 15,
     "fecha": "30/1/22",
     "leido": "true",
-    "imagen":"https://images-na.ssl-images-amazon.com/images/I/91sTL-VwFcL.jpg"
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/91sTL-VwFcL.jpg"
   },
   {
     "titulo": "Territorio comanche",
@@ -25,9 +25,9 @@
     "paginas": 144,
     "palabras": 26855,
     "tiempo": 3,
-    "fecha":"30/7/22",
+    "fecha": "30/7/22",
     "leido": "true",
-    "imagen":"https://www.perezreverte.com/upload/fotos/libros/201002/terricom_grande.jpg"
+    "imagen": "https://www.perezreverte.com/upload/fotos/libros/201002/terricom_grande.jpg"
   },
   {
     "titulo": "Burlar al diablo",
@@ -35,7 +35,7 @@
     "paginas": 272,
     "palabras": 61048,
     "leido": "false",
-    "imagen":"https://images-na.ssl-images-amazon.com/images/I/619RS6FIOqL.jpg"
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/619RS6FIOqL.jpg"
   },
   {
     "titulo": "El italiano",
@@ -43,7 +43,7 @@
     "paginas": 400,
     "palabras": 95183,
     "leido": "false",
-    "imagen":"https://imagessl9.casadellibro.com/a/l/t5/99/9788420460499.jpg"
+    "imagen": "https://imagessl9.casadellibro.com/a/l/t5/99/9788420460499.jpg"
   },
   {
     "titulo": "Falcó",
@@ -51,7 +51,7 @@
     "paginas": 296,
     "palabras": 73350,
     "leido": "false",
-    "imagen":"https://m.media-amazon.com/images/I/418+QSSZZXL.jpg"
+    "imagen": "https://m.media-amazon.com/images/I/418+QSSZZXL.jpg"
   },
   {
     "titulo": "La mente de los justos",
@@ -59,7 +59,7 @@
     "paginas": 496,
     "palabras": 153066,
     "leido": "false",
-    "imagen":"https://images-na.ssl-images-amazon.com/images/I/716D442diTL.jpg"
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/716D442diTL.jpg"
   },
   {
     "titulo": "La transformación de la mente moderna",
@@ -67,7 +67,7 @@
     "paginas": 440,
     "palabras": 131937,
     "leido": "false",
-    "imagen":"https://images-na.ssl-images-amazon.com/images/I/91+bzf+DF+L.jpg"
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/91+bzf+DF+L.jpg"
   },
   {
     "titulo": "Pensar rápido, pensar despacio",
@@ -75,7 +75,7 @@
     "paginas": 672,
     "palabras": 201693,
     "leido": "false",
-    "imagen":"https://images-na.ssl-images-amazon.com/images/I/41flEkJoj2L._SX323_BO1,204,203,200_.jpg"
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/41flEkJoj2L._SX323_BO1,204,203,200_.jpg"
   },
   {
     "titulo": "La tabla de flandes",
@@ -83,7 +83,7 @@
     "paginas": 416,
     "palabras": 108060,
     "leido": "false",
-    "imagen":"http://www.perezreverte.com/upload/fotos/libros/201002/tabla_flandes.jpg"
+    "imagen": "http://www.perezreverte.com/upload/fotos/libros/201002/tabla_flandes.jpg"
   },
   {
     "titulo": "Terapia cognitiva de la depresión",
@@ -91,7 +91,7 @@
     "paginas": 396,
     "palabras": 165954,
     "leido": "false",
-    "imagen":"https://images-na.ssl-images-amazon.com/images/I/714O9Asx4xL.jpg"
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/714O9Asx4xL.jpg"
   },
   {
     "titulo": "La odisea",
@@ -99,7 +99,7 @@
     "paginas": 472,
     "palabras": 117776,
     "leido": "false",
-    "imagen":"https://images.cdn3.buscalibre.com/fit-in/360x360/30/0d/300dff10bb14e05d86944f2c9ce8f7ec.jpg"
+    "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/30/0d/300dff10bb14e05d86944f2c9ce8f7ec.jpg"
   },
   {
     "titulo": "La iliada",
@@ -107,7 +107,7 @@
     "paginas": 650,
     "palabras": 151401,
     "leido": "false",
-    "imagen":"https://global-uploads.webflow.com/6034d7d1f3e0f52c50b2adee/62542902e650b33bf6b7a912_60e710db1c3ed16b7bfff0df_9788418008962_Cub.jpeg"
+    "imagen": "https://global-uploads.webflow.com/6034d7d1f3e0f52c50b2adee/62542902e650b33bf6b7a912_60e710db1c3ed16b7bfff0df_9788418008962_Cub.jpeg"
   },
   {
     "titulo": "Hábitos Atómicos",
@@ -115,7 +115,7 @@
     "paginas": 336,
     "palabras": 85033,
     "leido": "false",
-    "imagen":"https://flavioamiel.com/wp-content/uploads/2020/04/habitos-atomicos.jpg"
+    "imagen": "https://flavioamiel.com/wp-content/uploads/2020/04/habitos-atomicos.jpg"
   },
   {
     "titulo": "El Día Que Se Perdió El Amor",
@@ -125,17 +125,17 @@
     "tiempo": 7,
     "fecha": "31/7/22",
     "leido": "true",
-    "imagen":"https://imagessl2.casadellibro.com/a/l/t5/32/9788491291732.jpg"
+    "imagen": "https://imagessl2.casadellibro.com/a/l/t5/32/9788491291732.jpg"
   },
   {
     "titulo": "Un cuento perfecto",
     "autor": "Elísabet Benavent",
     "paginas": 580,
     "palabras": 163180,
-    "tiempo":19,
+    "tiempo": 19,
     "fecha": "27/3/22",
     "leido": "true",
-    "imagen":"https://images-na.ssl-images-amazon.com/images/I/81KkXoQkahL.jpg"
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/81KkXoQkahL.jpg"
   },
   {
     "titulo": "El día que se perdió la cordura",
@@ -145,17 +145,17 @@
     "tiempo": 7,
     "fecha": "30/7/22",
     "leido": "true",
-    "imagen":"https://images-na.ssl-images-amazon.com/images/I/91lSrUXt6tL.jpg"
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/91lSrUXt6tL.jpg"
   },
   {
     "titulo": "El prisionero del cielo",
     "autor": "Carlos Ruiz Zafón",
     "paginas": 339,
     "palabras": 68105,
-    "tiempo":7,
+    "tiempo": 7,
     "fecha": "12/2/22",
     "leido": "true",
-    "imagen":"https://images-na.ssl-images-amazon.com/images/I/91He6le7OUL.jpg"
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/91He6le7OUL.jpg"
   },
   {
     "titulo": "El hombre en busca de sentido",
@@ -163,9 +163,9 @@
     "paginas": 168,
     "palabras": 46393,
     "tiempo": 4.5,
-    "fecha":"3/8/22",
+    "fecha": "3/8/22",
     "leido": "true",
-    "imagen":"https://images-na.ssl-images-amazon.com/images/I/81MAQ+fkjrL.jpg"
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/81MAQ+fkjrL.jpg"
   },
   {
     "titulo": "Memorias de Idhun(1)",
@@ -173,6 +173,21 @@
     "paginas": 558,
     "palabras": 149417,
     "leido": "false",
-    "imagen":"https://images-na.ssl-images-amazon.com/images/I/91gptViUokL.jpg"
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/91gptViUokL.jpg"
+  },
+  {
+    "titulo": "Desarticulaciones",
+    "autor": "Sylvia Molloy",
+    "paginas": 76,
+    "palabras": 8493,
+    "leido": "false"
+  },
+  {
+    "titulo": "Nada dentro salvo el vacío",
+    "autor": "Ana V. Catania",
+    "paginas": 122,
+    "palabras": 40091,
+    "leido": "false",
+    "imagen": "https://aniosluz.com.ar/wp-content/uploads/2020/04/nada-dentro-salvo-el-vac%C3%ADo-front-330x475-1-1.gif"
   }
 ]
