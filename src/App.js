@@ -1,6 +1,6 @@
 import "./App.css";
 import Lista from "./componentes/lista";
-import logo from "./libro.png";
+import logo from "./libro.webp";
 
 function App() {
   

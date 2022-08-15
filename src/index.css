@@ -10,7 +10,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(https://cdn.shopify.com/s/files/1/0020/9508/7671/products/MTOT0006-Modern-Hexagon-Gold-Metallic-Handcut-Glass-Mosaic-Tile.jpg?v=1622702844);
+  background-image: url(../public/assets/MTOT0006-Modern-Hexagon-Gold-Metallic-Handcut-Glass-Mosaic-Tile.webp);
   background-size:50%;
   background-attachment: fixed;
 }
