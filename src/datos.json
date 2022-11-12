@@ -181,7 +181,7 @@
     "paginas": 76,
     "palabras": 8493,
     "leido": "false",
-    "imagen":"assets/9789871673209.webp"
+    "imagen": "assets/9789871673209.webp"
   },
   {
     "titulo": "Nada dentro salvo el vacío",
@@ -190,5 +190,53 @@
     "palabras": 40091,
     "leido": "false",
     "imagen": "assets/51075028 (1).webp"
+  },
+  {
+    "titulo": "Sell like crazy",
+    "autor": "Sabri Subi",
+    "paginas": 305,
+    "palabras": 62503,
+    "leido": "false",
+    "imagen": "assets/51CII3uiYYL.webp"
+  },
+  {
+    "titulo": "Técnicas prohibidas de Persuasión:PNL",
+    "autor": "Steve Allen",
+    "paginas": 222,
+    "palabras": 48900,
+    "leido": "false",
+    "imagen": "assets/40215948.SY475.webp"
+  },
+  {
+    "titulo": "La campana de cristal",
+    "autor": "Sylvia Plath",
+    "paginas": 272,
+    "palabras": 73173,
+    "leido": "false",
+    "imagen": "assets/15722777365424.webp"
+  },
+  {
+    "titulo": "Por si las voces vuelven",
+    "autor": "Ángel Martín",
+    "paginas": 256,
+    "palabras": 51078,
+    "leido": "false",
+    "imagen": "assets/300x300bb.webp"
+  },
+  {
+    "titulo": "Sonríe o muere. La trampa del pensamiento positivo",
+    "autor": "Barbara Ehrenreich",
+    "paginas": 264,
+    "palabras": 76963,
+    "leido": "false",
+    "imagen": "assets/978841714179.webp"
+  },
+  {
+    "titulo": "La biblioteca de la medianoche",
+    "autor": "Matt Haig",
+    "paginas": 336,
+    "palabras": 79950,
+    "leido": "false",
+    "imagen": "assets/La-Biblioteca-de-la-Medianoche-AdN--i6n20018385.webp"
   }
 ]
