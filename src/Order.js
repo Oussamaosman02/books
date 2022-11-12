@@ -1,7 +1,8 @@
-import './Order.css'
+import './App.css'
 import Lista from './componentes/lista'
 import logo from './libro.webp'
 import data from './datos.json'
+import { Link } from 'react-router-dom'
 
 function Order () {
   const dates = data.filter(lib => lib.leido === 'false')
@@ -21,6 +22,11 @@ function Order () {
         <img src={logo} alt='Logo' />
       </div>
       <h1>Libros</h1>
+      <Link to='/'>
+        <button>
+          HOME
+        </button>
+      </Link>
       <Lista dats={datos} />
     </div>
   )

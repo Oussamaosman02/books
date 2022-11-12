@@ -2,6 +2,7 @@ import './App.css'
 import Lista from './componentes/lista'
 import logo from './libro.webp'
 import data from './datos.json'
+import { Link } from 'react-router-dom'
 
 function App () {
   const datos = data.sort(function () {
@@ -15,6 +16,9 @@ function App () {
         <img src={logo} alt='Logo' />
       </div>
       <h1>Libros</h1>
+      <Link to='/order'>
+        <button>EN ORDEN</button>
+      </Link>
       <Lista dats={datos} />
     </div>
   )

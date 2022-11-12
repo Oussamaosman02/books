@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+.Order {
+  text-align: center;
+}
 
 .imag {
   position: absolute;
@@ -24,4 +27,20 @@ ul {
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
+}
+
+button {
+  border: none;
+  background-color: rgba(250, 250, 250, 0.25);
+  /* From https://css.glass */
+  box-shadow: 0 0px 30px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(4px);
+  border: 1px solid whitesmoke;
+  padding: 5px;
+  border-radius: 10px;
+}
+button:hover {
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0);
+  backdrop-filter: blur(1px);
 }
