@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "react-router-dom": "^6.4.3",
     "standard": "17.0.0"
   }
 }
