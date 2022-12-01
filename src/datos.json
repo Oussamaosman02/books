@@ -198,7 +198,9 @@
     "autor": "Sabri Subi",
     "paginas": 305,
     "palabras": 62503,
-    "leido": "false",
+    "tiempo":8,
+    "fecha":"30/11/22",
+    "leido": "true",
     "imagen": "assets/51CII3uiYYL.webp"
   },
   {
