@@ -198,8 +198,8 @@
     "autor": "Sabri Subi",
     "paginas": 305,
     "palabras": 62503,
-    "tiempo":8,
-    "fecha":"30/11/22",
+    "tiempo": 8,
+    "fecha": "30/11/22",
     "leido": "true",
     "imagen": "assets/51CII3uiYYL.webp"
   },
@@ -224,7 +224,9 @@
     "autor": "Ángel Martín",
     "paginas": 256,
     "palabras": 51078,
-    "leido": "false",
+    "tiempo": 4,
+    "fecha": "6/12/22",
+    "leido": "true",
     "imagen": "assets/300x300bb.webp"
   },
   {
