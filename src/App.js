@@ -19,6 +19,9 @@ function App () {
       <Link to='/order'>
         <button>EN ORDEN</button>
       </Link>
+      <Link to='/read'>
+        <button>LEIDOS</button>
+      </Link>
       <Lista dats={datos} />
     </div>
   )
