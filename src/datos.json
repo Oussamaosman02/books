@@ -166,8 +166,8 @@
     "autor": "Ana V. Catania",
     "paginas": 122,
     "palabras": 40091,
-    "tiempo":4,
-    "fecha":"9/12/22",
+    "tiempo": 4,
+    "fecha": "9/12/22",
     "leido": "true",
     "imagen": "assets/51075028 (1).webp"
   },
@@ -222,5 +222,15 @@
     "palabras": 79950,
     "leido": "false",
     "imagen": "assets/La-Biblioteca-de-la-Medianoche-AdN--i6n20018385.webp"
+  },
+  {
+    "titulo": "El peligro de la historia única",
+    "autor": "Chimamanda Ngozi Adichie",
+    "paginas": 29,
+    "palabras": 5027,
+    "tiempo": 0.5,
+    "fecha": "9/12/22",
+    "leido": "true",
+    "imagen": "assets/historia_unica.webp"
   }
 ]
