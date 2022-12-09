@@ -190,7 +190,9 @@
     "autor": "Ana V. Catania",
     "paginas": 122,
     "palabras": 40091,
-    "leido": "false",
+    "tiempo":4,
+    "fecha":"9/12/22",
+    "leido": "true",
     "imagen": "assets/51075028 (1).webp"
   },
   {
