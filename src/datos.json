@@ -94,22 +94,6 @@
     "imagen": "assets/714O9Asx4xL (1).webp"
   },
   {
-    "titulo": "La odisea",
-    "autor": "Homero",
-    "paginas": 472,
-    "palabras": 117776,
-    "leido": "false",
-    "imagen": "assets/300dff10bb14e05d86944f2c9ce8f7ec.webp"
-  },
-  {
-    "titulo": "La iliada",
-    "autor": "Homero",
-    "paginas": 650,
-    "palabras": 151401,
-    "leido": "false",
-    "imagen": "assets/62542902e650b33bf6b7a912_60e710db1c3ed16b7bfff0df_9788418008962_Cub.webp"
-  },
-  {
     "titulo": "Hábitos Atómicos",
     "autor": "James Clear",
     "paginas": 336,
@@ -166,14 +150,6 @@
     "fecha": "3/8/22",
     "leido": "true",
     "imagen": "assets/81MAQfkjrL.webp"
-  },
-  {
-    "titulo": "Memorias de Idhun(1)",
-    "autor": "Laura Gallego",
-    "paginas": 558,
-    "palabras": 149417,
-    "leido": "false",
-    "imagen": "assets/91gptViUokL (1).webp"
   },
   {
     "titulo": "Desarticulaciones",
