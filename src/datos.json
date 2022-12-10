@@ -232,5 +232,69 @@
     "fecha": "9/12/22",
     "leido": "true",
     "imagen": "assets/historia_unica.webp"
+  },
+  {
+    "titulo": "Entrena tu crerebro",
+    "autor": "Marta Romo",
+    "paginas": 104,
+    "palabras": 46138,
+    "leido": "false",
+    "imagen": "assets/entrena-cerebro.webp"
+  },
+  {
+    "titulo": "Triggers",
+    "autor": "Marshall Goldsmith",
+    "paginas": 233,
+    "palabras": 61616,
+    "leido": "false",
+    "imagen": "assets/triggers.webp"
+  },
+  {
+    "titulo": "Permiso para sentir",
+    "autor": "Marc Brackett",
+    "paginas": 408,
+    "palabras": 99904,
+    "leido": "false",
+    "imagen": "assets/permiso-sentir.webp"
+  },
+  {
+    "titulo": "Una educación",
+    "autor": "Tara Westover",
+    "paginas": 624,
+    "palabras": 119107,
+    "leido": "false",
+    "imagen": "assets/una-educacion.webp"
+  },
+  {
+    "titulo": "Hablar con extraños",
+    "autor": "Malcolm Gladwell",
+    "paginas": 779,
+    "palabras": 104161,
+    "leido": "false",
+    "imagen": "assets/hablar-extraños.webp"
+  },
+  {
+    "titulo": "El mito del carisma",
+    "autor": "Olivia Fox Cabane",
+    "paginas": 518,
+    "palabras": 88998,
+    "leido": "false",
+    "imagen": "assets/mito-carisma.webp"
+  },
+  {
+    "titulo": "Rompe la barrera del no",
+    "autor": "Chris Voss",
+    "paginas": 403,
+    "palabras": 87805,
+    "leido": "false",
+    "imagen": "assets/rompe-barrera-no.webp"
+  },
+  {
+    "titulo": "Saber Conversar",
+    "autor": "Debra Fine",
+    "paginas": 369,
+    "palabras": 54602,
+    "leido": "false",
+    "imagen": "assets/saber-conversar.webp"
   }
 ]
