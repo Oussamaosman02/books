@@ -238,7 +238,9 @@
     "autor": "Marta Romo",
     "paginas": 104,
     "palabras": 46138,
-    "leido": "false",
+    "tiempo":4,
+    "fecha":"24/12/22",
+    "leido": "true",
     "imagen": "assets/entrena-cerebro.webp"
   },
   {
@@ -271,7 +273,7 @@
     "paginas": 779,
     "palabras": 104161,
     "leido": "false",
-    "imagen": "assets/hablar-extraños.webp"
+    "imagen": "assets/hablar-extranos.webp"
   },
   {
     "titulo": "El mito del carisma",
@@ -296,5 +298,13 @@
     "palabras": 54602,
     "leido": "false",
     "imagen": "assets/saber-conversar.webp"
+  },
+  {
+    "titulo": "El príncipe de la niebla",
+    "autor": "Carlos Ruiz Zafón",
+    "paginas": 263,
+    "palabras": 44372,
+    "leido": "false",
+    "imagen": "assets/principe-niebla.webp"
   }
 ]
