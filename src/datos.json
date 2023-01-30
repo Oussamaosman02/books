@@ -34,7 +34,9 @@
     "autor": "Napoleon Hill",
     "paginas": 272,
     "palabras": 61048,
-    "leido": "false",
+    "tiempo":8,
+    "fecha":"25/1/23",
+    "leido": "true",
     "imagen": "assets/619RS6FIOqL.webp"
   },
   {
