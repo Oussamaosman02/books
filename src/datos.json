@@ -34,8 +34,8 @@
     "autor": "Napoleon Hill",
     "paginas": 272,
     "palabras": 61048,
-    "tiempo":8,
-    "fecha":"25/1/23",
+    "tiempo": 8,
+    "fecha": "25/1/23",
     "leido": "true",
     "imagen": "assets/619RS6FIOqL.webp"
   },
@@ -240,8 +240,8 @@
     "autor": "Marta Romo",
     "paginas": 104,
     "palabras": 46138,
-    "tiempo":4,
-    "fecha":"24/12/22",
+    "tiempo": 4,
+    "fecha": "24/12/22",
     "leido": "true",
     "imagen": "assets/entrena-cerebro.webp"
   },
@@ -308,5 +308,13 @@
     "palabras": 44372,
     "leido": "false",
     "imagen": "assets/principe-niebla.webp"
+  },
+  {
+    "titulo": "El guión",
+    "autor": "Robert Mckee",
+    "paginas": 552,
+    "palabras": 155578,
+    "leido": "false",
+    "imagen": "assets/el-guion.webp"
   }
 ]
