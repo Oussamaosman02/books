@@ -316,5 +316,21 @@
     "palabras": 155578,
     "leido": "false",
     "imagen": "assets/el-guion.webp"
+  },
+  {
+    "titulo": "El hombre más rico de babilonia",
+    "autor": "George S. Clason",
+    "paginas": 152,
+    "palabras": 20725,
+    "leido": "false",
+    "imagen": "assets/mas-rico-babilonia.webp"
+  },
+  {
+    "titulo": "El Método(The Game)",
+    "autor": "Neil Strauss",
+    "paginas": 672,
+    "palabras": 157586,
+    "leido": "false",
+    "imagen": "assets/el-metodo.webp"
   }
 ]
